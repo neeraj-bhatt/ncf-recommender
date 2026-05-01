@@ -34,7 +34,6 @@ Movie ID ──► Item Embedding ──┘
 | Test Accuracy | 72%+ |
 | Loss Function | Binary Cross Entropy |
 | Optimizer | Adam (lr=0.001) |
-| Training | Early stopping (patience=3) |
 
 ---
 
