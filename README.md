@@ -31,7 +31,7 @@ Movie ID ──► Item Embedding ──┘
 | Users | ~610 |
 | Movies | ~9,700 |
 | Ratings | ~100,000 |
-| Test Accuracy | 85%+ |
+| Test Accuracy | 72%+ |
 | Loss Function | Binary Cross Entropy |
 | Optimizer | Adam (lr=0.001) |
 | Training | Early stopping (patience=3) |
